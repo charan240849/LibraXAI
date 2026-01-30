@@ -202,5 +202,8 @@ The Jenkinsfile provides:
 | DB_PATH | ./data/lms.db | SQLite database path |
 
 ## License
+Personal
 
-MIT
+## OverView
+<img width="1882" height="870" alt="image" src="https://github.com/user-attachments/assets/9eda3596-34e9-449a-964c-8d17404d8038" />
+
