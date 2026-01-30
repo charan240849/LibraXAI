@@ -150,20 +150,19 @@ lms-simple/
 │  ├─ tsconfig.json
 │  ├─ Dockerfile
 │  └─ .env.example
-├─ lms-simple/
-│  └─ frontend/
-│     ├─ src/
-│     │  ├─ api/             # Axios API client
-│     │  ├─ components/      # Reusable components
-│     │  ├─ context/         # React context (Auth)
-│     │  ├─ pages/           # Page components
-│     │  ├─ types/           # TypeScript types
-│     │  ├─ App.tsx          # Main app with routing
-│     │  └─ main.tsx         # Entry point
-│     ├─ package.json
-│     ├─ vite.config.ts
-│     ├─ Dockerfile
-│     └─ nginx.conf
+│─ frontend/
+│  ├─ src/
+│  ├─ api/             # Axios API client
+│  ├─ components/      # Reusable components
+│  ├─ context/         # React context (Auth)
+│  ├─ pages/           # Page components
+│  ├─ types/           # TypeScript types
+│  ├─ App.tsx          # Main app with routing
+│  └─ main.tsx         # Entry point
+│  ├─ package.json
+│  ├─ vite.config.ts
+│  ├─ Dockerfile
+│  └─ nginx.conf
 ├─ docker-compose.yml
 ├─ Jenkinsfile
 ├─ README.md
